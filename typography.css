@@ -1,0 +1,37 @@
+/* Copyright (c) 2009 Ukao Solutions */
+body { 
+	/* customize_body */ font: normal normal 12px Verdana,Geneva,sans-serif; /* customize_body */
+	/* customize_body */ color: #333333; /* customize_body */
+}
+
+img {border: 0px}
+a,a:visited,a:active {
+	/* customize_link */ color: #2f5493; /* customize_link */
+}
+a:hover {
+	/* customize_link_hover */ color: #4776c5; /* customize_link_hover */
+} 
+
+h1,h2,h3,h4,h5{ margin:0px 0px 4px 0px; padding:4px 0px; margin-top:8px }
+h1{ font: normal normal 21px Arial; line-height:28px }
+h2{ font-size:18px; line-height:24px }
+h3{ font-size:16px; line-height:21px }
+h4{ font-size:14px; line-height:18px }
+h5{ font-size:13px; line-height:16px }
+p{ padding:0px 0px 0px 0px; line-height: 18px;}
+
+#page #logo a{
+	/* customize_logo */ font: normal normal 48px Candara, Verdana, sans-serif; /* customize_logo */
+	/* customize_logo */ color: #000000; /* customize_logo */
+	text-decoration: none;
+}
+#page #nav{font-family: arial, Helvetica, sans-serif; font-size:2.0em}
+
+#page #footer #copyright{
+    color: #999999;
+    font-size: 12px;
+}
+#page #footer #copyright a{
+    color: #999999;
+    font-size: 12px;
+}
